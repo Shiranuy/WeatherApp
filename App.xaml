@@ -1,0 +1,11 @@
+﻿<Application x:Class="WeatherApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:converters="clr-namespace:WeatherApp.Converters"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <converters:NullToVisibilityConverter x:Key="NullToVisibilityConverter"/>
+        <converters:BoolToFavoriteTextConverter x:Key="BoolToFavoriteTextConverter"/>
+        
+    </Application.Resources>
+</Application>

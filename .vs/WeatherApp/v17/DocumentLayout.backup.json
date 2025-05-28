@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\converters\\booltofavoritetextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:converters\\booltofavoritetextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\services\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:services\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\models\\weatherhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:models\\weatherhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\models\\forecastmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:models\\forecastmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|c:\\users\\yudoc\\desktop\\repos\\weatherapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A868EC-ADBA-415E-97BA-5C15632DD66D}|WeatherApp.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6909b92cc117fa036f0d56c2c1069bcda89167b8e359bf230d81fcb74daebd94\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\2903a07f8ccb9517660a432a606a58976055444042fc43ee446cf02b40c2b3fe\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\ae2b9075d43b6dcea51d759c15f1b9f9df6e506984867c28edc10d15bebd35ca\\EventRoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\157b23b3c79710d6a2852a99291dc548dfdcda3b647f1225ad8fe585f64e1a92\\ArgumentNullException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\0c8c3bbf5a7873defbf0549875bce5b8c5f448921942c2ddadb38006d21bb85d\\ResourceDictionaryCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c39c3046811d8400edd8c48ff5f57f1644dcd8f11b0da8c1853dd6b9a961498b\\HwndWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e8d68e7af1fb94bc3cfd753c560f12bc92ccb3bdaccf6e4be8ffa111bf800af6\\ExceptionWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\51027d03abb38c85f99b2c1f44fe066eb5f410184f9020f041c4d89fee0f7684\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\228036c052c63fd53276fb75aa1875607d24918ffc47506cef549dd14ae4a230\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\99d32d104de7b03d055ed61a3017701865e76eda47f2eb7ddce95631f1175e56\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\5624fe27b337812e8e1bf2f1958f55530e85d35b91516a446a0f0a4bfe884523\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\d3a51be309b5e8ea1d7fc904b2e927bafbf579b6283c14d34e432e19ebd10f44\\MediaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6e88b3644e27efbc12391395a894aae683c9334784063dad9058e97d376ae34d\\ContextLayoutManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c17c03eafd6b155e7d04cd4d51cd9eec140f83cc357e9ad64e62c5653f244d65\\UIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e15f7538db83c559646f1fd7f46784f90ed0125a4c1e9181378d1e7a9cdf587b\\FrameworkElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\da56653d04cae18c0ea5075cdae6de26aca63776a03193e17f7a6fa884c8a242\\VirtualizingStackPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Services\\WeatherRepository.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherRepository.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Services\\WeatherRepository.cs",
+              "RelativeToolTip": "Services\\WeatherRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:01:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T12:19:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:39:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoolToFavoriteTextConverter.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\BoolToFavoriteTextConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToFavoriteTextConverter.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\BoolToFavoriteTextConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToFavoriteTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:04:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoolToVIsibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\BoolToVIsibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToVIsibilityConverter.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\BoolToVIsibilityConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToVIsibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:34:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "Converters\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:29:48.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA/wGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:05:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherApp.csproj",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\WeatherApp.csproj",
+              "RelativeDocumentMoniker": "WeatherApp.csproj",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\WeatherApp.csproj*",
+              "RelativeToolTip": "WeatherApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T14:04:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Models\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:04:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:40:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherHistoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\WeatherHistoryItem.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherHistoryItem.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\WeatherHistoryItem.cs",
+              "RelativeToolTip": "Models\\WeatherHistoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:00:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForecastModels.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\ForecastModels.cs",
+              "RelativeDocumentMoniker": "Models\\ForecastModels.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\Models\\ForecastModels.cs",
+              "RelativeToolTip": "Models\\ForecastModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:18:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T07:49:40.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:47:53.486Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:41:37.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\2903a07f8ccb9517660a432a606a58976055444042fc43ee446cf02b40c2b3fe\\App.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2903a07f8ccb9517660a432a606a58976055444042fc43ee446cf02b40c2b3fe\\App.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\2903a07f8ccb9517660a432a606a58976055444042fc43ee446cf02b40c2b3fe\\App.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2903a07f8ccb9517660a432a606a58976055444042fc43ee446cf02b40c2b3fe\\App.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:20.88Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6909b92cc117fa036f0d56c2c1069bcda89167b8e359bf230d81fcb74daebd94\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6909b92cc117fa036f0d56c2c1069bcda89167b8e359bf230d81fcb74daebd94\\Application.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6909b92cc117fa036f0d56c2c1069bcda89167b8e359bf230d81fcb74daebd94\\Application.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6909b92cc117fa036f0d56c2c1069bcda89167b8e359bf230d81fcb74daebd94\\Application.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:27.036Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventRoute.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\ae2b9075d43b6dcea51d759c15f1b9f9df6e506984867c28edc10d15bebd35ca\\EventRoute.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ae2b9075d43b6dcea51d759c15f1b9f9df6e506984867c28edc10d15bebd35ca\\EventRoute.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\ae2b9075d43b6dcea51d759c15f1b9f9df6e506984867c28edc10d15bebd35ca\\EventRoute.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ae2b9075d43b6dcea51d759c15f1b9f9df6e506984867c28edc10d15bebd35ca\\EventRoute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:33:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResourceDictionaryCollection.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\0c8c3bbf5a7873defbf0549875bce5b8c5f448921942c2ddadb38006d21bb85d\\ResourceDictionaryCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c8c3bbf5a7873defbf0549875bce5b8c5f448921942c2ddadb38006d21bb85d\\ResourceDictionaryCollection.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\0c8c3bbf5a7873defbf0549875bce5b8c5f448921942c2ddadb38006d21bb85d\\ResourceDictionaryCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c8c3bbf5a7873defbf0549875bce5b8c5f448921942c2ddadb38006d21bb85d\\ResourceDictionaryCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:33:57.352Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HwndWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c39c3046811d8400edd8c48ff5f57f1644dcd8f11b0da8c1853dd6b9a961498b\\HwndWrapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c39c3046811d8400edd8c48ff5f57f1644dcd8f11b0da8c1853dd6b9a961498b\\HwndWrapper.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c39c3046811d8400edd8c48ff5f57f1644dcd8f11b0da8c1853dd6b9a961498b\\HwndWrapper.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c39c3046811d8400edd8c48ff5f57f1644dcd8f11b0da8c1853dd6b9a961498b\\HwndWrapper.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:33:48.904Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArgumentNullException.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\157b23b3c79710d6a2852a99291dc548dfdcda3b647f1225ad8fe585f64e1a92\\ArgumentNullException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\157b23b3c79710d6a2852a99291dc548dfdcda3b647f1225ad8fe585f64e1a92\\ArgumentNullException.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\157b23b3c79710d6a2852a99291dc548dfdcda3b647f1225ad8fe585f64e1a92\\ArgumentNullException.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\157b23b3c79710d6a2852a99291dc548dfdcda3b647f1225ad8fe585f64e1a92\\ArgumentNullException.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:33:58.051Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\51027d03abb38c85f99b2c1f44fe066eb5f410184f9020f041c4d89fee0f7684\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\51027d03abb38c85f99b2c1f44fe066eb5f410184f9020f041c4d89fee0f7684\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\51027d03abb38c85f99b2c1f44fe066eb5f410184f9020f041c4d89fee0f7684\\Dispatcher.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\51027d03abb38c85f99b2c1f44fe066eb5f410184f9020f041c4d89fee0f7684\\Dispatcher.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:52:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\99d32d104de7b03d055ed61a3017701865e76eda47f2eb7ddce95631f1175e56\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\99d32d104de7b03d055ed61a3017701865e76eda47f2eb7ddce95631f1175e56\\Application.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\99d32d104de7b03d055ed61a3017701865e76eda47f2eb7ddce95631f1175e56\\Application.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\99d32d104de7b03d055ed61a3017701865e76eda47f2eb7ddce95631f1175e56\\Application.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:52:20.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\228036c052c63fd53276fb75aa1875607d24918ffc47506cef549dd14ae4a230\\App.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\228036c052c63fd53276fb75aa1875607d24918ffc47506cef549dd14ae4a230\\App.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\228036c052c63fd53276fb75aa1875607d24918ffc47506cef549dd14ae4a230\\App.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\228036c052c63fd53276fb75aa1875607d24918ffc47506cef549dd14ae4a230\\App.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:52:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExceptionWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e8d68e7af1fb94bc3cfd753c560f12bc92ccb3bdaccf6e4be8ffa111bf800af6\\ExceptionWrapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e8d68e7af1fb94bc3cfd753c560f12bc92ccb3bdaccf6e4be8ffa111bf800af6\\ExceptionWrapper.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e8d68e7af1fb94bc3cfd753c560f12bc92ccb3bdaccf6e4be8ffa111bf800af6\\ExceptionWrapper.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e8d68e7af1fb94bc3cfd753c560f12bc92ccb3bdaccf6e4be8ffa111bf800af6\\ExceptionWrapper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ItemContainerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\5624fe27b337812e8e1bf2f1958f55530e85d35b91516a446a0f0a4bfe884523\\ItemContainerGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5624fe27b337812e8e1bf2f1958f55530e85d35b91516a446a0f0a4bfe884523\\ItemContainerGenerator.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\5624fe27b337812e8e1bf2f1958f55530e85d35b91516a446a0f0a4bfe884523\\ItemContainerGenerator.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5624fe27b337812e8e1bf2f1958f55530e85d35b91516a446a0f0a4bfe884523\\ItemContainerGenerator.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:08:09.652Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContextLayoutManager.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6e88b3644e27efbc12391395a894aae683c9334784063dad9058e97d376ae34d\\ContextLayoutManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e88b3644e27efbc12391395a894aae683c9334784063dad9058e97d376ae34d\\ContextLayoutManager.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\6e88b3644e27efbc12391395a894aae683c9334784063dad9058e97d376ae34d\\ContextLayoutManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e88b3644e27efbc12391395a894aae683c9334784063dad9058e97d376ae34d\\ContextLayoutManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:44.33Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c17c03eafd6b155e7d04cd4d51cd9eec140f83cc357e9ad64e62c5653f244d65\\UIElement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c17c03eafd6b155e7d04cd4d51cd9eec140f83cc357e9ad64e62c5653f244d65\\UIElement.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\c17c03eafd6b155e7d04cd4d51cd9eec140f83cc357e9ad64e62c5653f244d65\\UIElement.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c17c03eafd6b155e7d04cd4d51cd9eec140f83cc357e9ad64e62c5653f244d65\\UIElement.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:40.898Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MediaContext.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\d3a51be309b5e8ea1d7fc904b2e927bafbf579b6283c14d34e432e19ebd10f44\\MediaContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d3a51be309b5e8ea1d7fc904b2e927bafbf579b6283c14d34e432e19ebd10f44\\MediaContext.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\d3a51be309b5e8ea1d7fc904b2e927bafbf579b6283c14d34e432e19ebd10f44\\MediaContext.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d3a51be309b5e8ea1d7fc904b2e927bafbf579b6283c14d34e432e19ebd10f44\\MediaContext.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:48.447Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrameworkElement.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e15f7538db83c559646f1fd7f46784f90ed0125a4c1e9181378d1e7a9cdf587b\\FrameworkElement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e15f7538db83c559646f1fd7f46784f90ed0125a4c1e9181378d1e7a9cdf587b\\FrameworkElement.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\e15f7538db83c559646f1fd7f46784f90ed0125a4c1e9181378d1e7a9cdf587b\\FrameworkElement.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e15f7538db83c559646f1fd7f46784f90ed0125a4c1e9181378d1e7a9cdf587b\\FrameworkElement.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:37.178Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VirtualizingStackPanel.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\da56653d04cae18c0ea5075cdae6de26aca63776a03193e17f7a6fa884c8a242\\VirtualizingStackPanel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da56653d04cae18c0ea5075cdae6de26aca63776a03193e17f7a6fa884c8a242\\VirtualizingStackPanel.cs",
+              "ToolTip": "C:\\Users\\yudoc\\AppData\\Local\\Temp\\.vsdbgsrc\\da56653d04cae18c0ea5075cdae6de26aca63776a03193e17f7a6fa884c8a242\\VirtualizingStackPanel.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da56653d04cae18c0ea5075cdae6de26aca63776a03193e17f7a6fa884c8a242\\VirtualizingStackPanel.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:51:27.878Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\yudoc\\Desktop\\repos\\WeatherApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:37:00.199Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
